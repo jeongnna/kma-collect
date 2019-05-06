@@ -102,3 +102,14 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# mac OS
+*.DS_Store
+
+# personal api key
+api_key
+
+# temporary files
+inputfile.json
+data/*
+test/data/*

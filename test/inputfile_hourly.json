@@ -1,0 +1,12 @@
+{
+    "stn_id" : 131,
+    "start_year" : 2017,
+    "end_year" : 2018,
+    "date_cd" : "HR",
+
+    "destination" : "weather_hourly.csv",
+
+    "features" : [
+        "RN", "TA", "WS", "ICSR", "TD", "DC10_TCA"
+    ]
+}

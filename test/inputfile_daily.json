@@ -1,0 +1,12 @@
+{
+    "stn_id" : 131,
+    "start_year" : 2017,
+    "end_year" : 2018,
+    "date_cd" : "DAY",
+
+    "destination" : "weather_daily.csv",
+
+    "features" : [
+        "MAX_TA", "MIN_TA", "AVG_WS", "AVG_TCA", "AVG_TD", "SUM_GSR"
+    ]
+}
