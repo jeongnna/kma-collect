@@ -64,7 +64,7 @@ def set_url(start_dt, end_dt, stn_id, date_cd, key):
 
 # Collect -----------------------------------------------------------------
 
-with open(fname, 'w+') as outfile:
+with open(fname, 'w') as outfile:
     csv_w = csv.writer(outfile)
     csv_w.writerow(columns)
 
